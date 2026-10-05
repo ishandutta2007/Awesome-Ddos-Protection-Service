@@ -52,9 +52,9 @@ Below is a comparison of top SaaS DDoS protection products, sorted by company si
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a list of top open-source DDoS protection tools, firewalls, and WAF mitigation software sorted by GitHub Star Count (descending):
+Below is a list of top open-source DDoS protection tools, firewalls, and WAF mitigation software sorted by GitHub Stars_Count (descending):
 
-| Repo & Description | Star Count |
+| Repo & Description | Stars_Count |
 | :--- | :--- |
 | **[CrowdSec](https://github.com/crowdsecurity/crowdsec)** 🤝<br>Collaborative, open-source & cloud-connected IPS/IDS with AppSec WAF engine. Analyzes behavior to block volumetric abuse, SQLi, and botnets across Nginx, Caddy, HAProxy, and Traefik. (MIT License) | [![Stars](https://img.shields.io/github/stars/crowdsecurity/crowdsec?style=social&color=white)](https://github.com/crowdsecurity/crowdsec/stargazers) |
 | **[ModSecurity](https://github.com/SpiderLabs/ModSecurity)** 🧱<br>The classic, battle-tested open-source Web Application Firewall engine. Supports layer 7 attack filtering for Apache, Nginx, and IIS. (Apache-2.0 License) | [![Stars](https://img.shields.io/github/stars/SpiderLabs/ModSecurity?style=social&color=white)](https://github.com/SpiderLabs/ModSecurity/stargazers) |
